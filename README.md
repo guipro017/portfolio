@@ -1,5 +1,17 @@
-## Welcome to GitHub Pages
+## Guilherme Carlos
 
+### sobre mim
+Eu sou Guilherme Sou estudante do ensino médio Quero trabalhar como Gamer Profissional de FIFA Ultimate Team quero criar uma plataforma de mídias sociais e quero construir muito melhor e mais sustentável para todos pessoas terem vida melhor por isso faço serviço voluntário para ajdar pessoas tanto sentido material,Emocional e Profissional 
+
+### Meu currículo
+Ensino Fundamental Completo
+Cursando o Ensino Médio
+HTML Basíco
+
+### Meus Hobbies
+1- Jogar Futebol
+2- Jogar Campeonatos de FIFA Ultimate Team
+3- Serviço Volutario conversar com idosos e ensinar os mais jovens
 You can use the [editor on GitHub](https://github.com/guipro017/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
