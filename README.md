@@ -12,6 +12,8 @@ HTML Basíco
 1- Jogar Futebol
 2- Jogar Campeonatos de FIFA Ultimate Team
 3- Serviço Volutario conversar com idosos e ensinar os mais jovens
+
+
 You can use the [editor on GitHub](https://github.com/guipro017/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
